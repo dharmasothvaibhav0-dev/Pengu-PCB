@@ -9,7 +9,8 @@ Using an Astable Multivibrator to light up different LEDS automatically, the LED
 The Main components in my circuit includes 6 resistors, 2 capacitors, 2 transistors, and 8 LEDS. The circuit itself is basically an Astable multivibrator which is what causes the oscillation to occur. I originally intended to create a seperate Bistable multivibrator, however it did not work as expected so I connected the components from the bistable to create one big Astable circuit. Because of the Astable circuit type, it causes the LEDS to flash one after another in a pattern. An observation I made was that the pattern for the bottom LEDS can also swap if we were to reroute the wires to the opposite collector which was interesting to me. 
 
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/28629083-2bf3-41ef-a2a2-d7089c1a3294" />
+
+![ezgif-7322ee254b1afecc](https://github.com/user-attachments/assets/f97c2103-5531-431f-819a-7b30e818a8d2)
 
 
 
