@@ -13,6 +13,10 @@ The Main components in my circuit includes 6 resistors, 2 capacitors, 2 transist
 ![ezgif-7322ee254b1afecc](https://github.com/user-attachments/assets/f97c2103-5531-431f-819a-7b30e818a8d2)
 
 
+----------------------------------------------------------------------------------------------------
+# The Schematic
+
+<img width="608" height="333" alt="SchematicPengu" src="https://github.com/user-attachments/assets/d1b02332-95c3-4452-97c0-7b3a619bb30d" />
 
 
 --------------------------------------------------------------------------------------------------
