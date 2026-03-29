@@ -8,7 +8,8 @@ I chose to create an Astable Multivibrator, however some of the main problems I 
 ## 3/23/2026 - 2
 
 After completing the main Astable multivibrator which created an oscillation, my initial thought was to add a bistable multivibrator for more LEDS to use in my design to use as arms. 
-<img width="766" height="625" alt="image" src="https://github.com/user-attachments/assets/38c32e8d-fafb-4014-b49b-74b714ca613b" />
+<img width="791" height="739" alt="image" src="https://github.com/user-attachments/assets/64bb8f48-18ec-480e-9988-c0a0e127a08a" />
+
 
 
 However after creating the Bistable multivibrator, while trying to test the entire circuit with both the Astable and Bistable multivibrator together, I noticed that the circuit was bugging. The LEDS flashing in the Astable would suddenly both flash together and wouldn't fade away when I tried to activate the LEDS in the Bistable circuit. Also when doing it the other way around, when I attempted to start up the oscillation while the bistable circuit was locked in its position, the bistable would unlock and flash off without activating the other LED.
